@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
                 mHandler.post(new Runnable() {
                     @Override
                     public void run() {
-
+// Test
                         txtInfo.setText("Virus found");
                     }
                 });
